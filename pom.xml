@@ -8,6 +8,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>core</module>
+        <module>programmer-app-xml-config</module>
     </modules>
     <name>Archetype - spring-foundations</name>
     <url>http://maven.apache.org</url>
@@ -17,6 +18,14 @@
         <maven.compiler.target>18</maven.compiler.target>
     </properties>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.28</version>
+            <scope>provided</scope>
+        </dependency>
 
+    </dependencies>
 
 </project>
