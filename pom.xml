@@ -9,6 +9,7 @@
     <modules>
         <module>core</module>
         <module>programmer-app-xml-config</module>
+        <module>core-java-based</module>
     </modules>
     <name>Archetype - spring-foundations</name>
     <url>http://maven.apache.org</url>
