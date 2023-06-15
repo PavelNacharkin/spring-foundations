@@ -11,6 +11,7 @@
         <module>programmer-app-xml-config</module>
         <module>core-java-based</module>
         <module>programmer-java-based-config</module>
+        <module>coffee-shop-java-based-config</module>
     </modules>
     <name>Archetype - spring-foundations</name>
     <url>http://maven.apache.org</url>
