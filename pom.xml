@@ -19,6 +19,7 @@
         <module>proxy</module>
         <module>aop</module>
         <module>aop-coffee-shop-homework</module>
+        <module>spring-ripper</module>
     </modules>
     <name>Archetype - spring-foundations</name>
     <url>http://maven.apache.org</url>
